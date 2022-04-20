@@ -1,4 +1,7 @@
 # Hi :smile:
+Feel free to contact me:
+-Tel: +48600270504
+-Email: jakub.mlocek.informatyka@gmail.com
 
 [![JakubMlocek github stats](https://github-readme-stats.vercel.app/api?username=JakubMlocek&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/JakubMlocek/github-readme-stats)
 
